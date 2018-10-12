@@ -1,0 +1,9 @@
+C:\C# projects\BinanceCurrencies\BinanceRestClient\bin\Debug\BinanceRestClient.dll
+C:\C# projects\BinanceCurrencies\BinanceRestClient\bin\Debug\BinanceRestClient.pdb
+C:\C# projects\BinanceCurrencies\BinanceRestClient\bin\Debug\Newtonsoft.Json.dll
+C:\C# projects\BinanceCurrencies\BinanceRestClient\bin\Debug\Newtonsoft.Json.xml
+C:\C# projects\BinanceCurrencies\BinanceRestClient\obj\Debug\BinanceRestClient.csprojAssemblyReference.cache
+C:\C# projects\BinanceCurrencies\BinanceRestClient\obj\Debug\BinanceRestClient.csproj.CoreCompileInputs.cache
+C:\C# projects\BinanceCurrencies\BinanceRestClient\obj\Debug\BinanceRestClient.csproj.CopyComplete
+C:\C# projects\BinanceCurrencies\BinanceRestClient\obj\Debug\BinanceRestClient.dll
+C:\C# projects\BinanceCurrencies\BinanceRestClient\obj\Debug\BinanceRestClient.pdb

@@ -1,0 +1,13 @@
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\Presenter.dll
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\Presenter.pdb
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\BinanceRestClient.dll
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\Contracts.dll
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\Newtonsoft.Json.dll
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\BinanceRestClient.pdb
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\Contracts.pdb
+C:\C# projects\BinanceCurrencies\Presenter\bin\Debug\Newtonsoft.Json.xml
+C:\C# projects\BinanceCurrencies\Presenter\obj\Debug\Presenter.csprojAssemblyReference.cache
+C:\C# projects\BinanceCurrencies\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\C# projects\BinanceCurrencies\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+C:\C# projects\BinanceCurrencies\Presenter\obj\Debug\Presenter.dll
+C:\C# projects\BinanceCurrencies\Presenter\obj\Debug\Presenter.pdb
